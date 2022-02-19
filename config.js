@@ -3,7 +3,9 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
+        "太阳最红 师父最亲"
         "祝师父 生日快乐😃",
+        "工作顺利 平安健康"
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -26,7 +28,7 @@ var config = {
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "再点一下",
+        wish_message: "再点一下",
+        story: "再点最后一下",
     }
 };
