@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "还有？",
         light_candle: "还有？",
         wish_message: "许个愿吧",
-        story: "再点最后一下",
+        story: "再点最后一下😁",
     }
 };
